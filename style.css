@@ -69,3 +69,11 @@ section .book img {
     height: 100%;
     object-fit: cover;
 }
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000;
+    position: absolute;
+    border-radius: 15px;
+}
